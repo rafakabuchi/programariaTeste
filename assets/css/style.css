@@ -1,0 +1,150 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(154, 155, 226) !important;
+    color: #ffffff;
+    margin: 0;
+}
+
+p {
+    text-align: justify;
+    font-size: 20px;
+    line-height: 1, 5;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    font-weight: 300;
+    text-shadow: 1px 1px 2px rgb(252, 249, 249), 0 0 25px rgb(97, 2, 41), 0 0 5px rgb(179, 22, 132);
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+    color: #2A0074;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.titulo-biografia {
+    text-align: center;
+    font-size: 40px;
+    color: #ac3838;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.titulo-spiceGirls {
+    text-align: center;
+    font-size: 40px;
+    color: #2A0074;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.titulo-carreiraSolo {
+    text-align: center;
+    font-size: 40px;
+    color: #ac3838;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.subTituloSolo {
+    text-align: left;
+    color: #ffffff;
+}
+
+section {
+    margin: 5% auto;
+}
+
+section section {
+    width: 100%;
+}
+
+img {
+    width: 50%;
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px #000000;
+    margin-top: 30px;
+}
+
+ul {
+    list-style-type: none;
+    line-height: 2;
+    padding-left: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #99ffff;
+    font-weight: 700;
+}
+
+#girlpower ul li a {
+    color: white;
+    font-size: 20px;
+}
+
+
+.card{
+    background-color:rgb(154, 155, 226) !important;
+    border-radius: none;
+}
+
+.bg-topo {
+    background-color: #68627a;
+    }
+
+#menu {
+    padding-bottom: 50px;
+}
+
+.navbar-brand {
+    color: red !important;
+}
+
+.navbar-nav {
+    width: 100%;
+}
+.dropdown-menu { 
+    background-color: #4c465f !important;
+    color: #ffffff;
+}
+
+/* Rodapé */
+.bg-rodape1 {
+    background-color: #312b45;
+    color: #ffffff !important;
+    
+}
+
+.bg-rodape1 ul{
+	-webkit-padding-start: 0;
+	-moz-padding-start: 0;
+}
+
+.bg-rodape2 {
+	background-color: #4c465f;
+}
+
+a.icone-social {
+    
+    color: #b3aec2;
+    font-size: 40px;
+}
+
+a.icone-social:hover{
+    color: rgb(117, 99, 201);
+}
+
+.btn-link {
+    font-weight: 400;
+    color: #ffffff !important;
+    font-size: 20px !important;
+}
+
+.btn-link:hover {
+    text-decoration: none !important;
+}
+
